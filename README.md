@@ -1,3 +1,5 @@
+This repo is now deprecated. Use [sorcererlc/nvim](https://github.com/sorcererlc/nvim) instead.
+
 # kickstart.nvim
 
 ## Introduction
